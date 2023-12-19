@@ -59,9 +59,9 @@ hr {
 }
 
 .rectangle{
-    width: 211px;
+    width: 200px;
     height: 29px;
-    margin: 35px 24px;
+    margin: 35px 15px 0 0;
     padding: 10px;
     background: #273549;
     color: #55F991;
@@ -70,5 +70,6 @@ hr {
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 32px
+    line-height: 32px;
+    border-radius: 7px;
 }
